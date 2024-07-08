@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFCHi18uXFtRb1_q7pQIVxYlwqvhVzCzZ4PQ&](https://w7.pngwing.com/pngs/585/822/png-transparent-python-scalable-graphics-logo-javascript-creative-dimensional-code-angle-text-rectangle-thumbnail.png](https://c0.klipartz.com/pngpicture/620/835/gratis-png-logo-azul-y-amarillo-logo-de-python-thumbnail.png">
+  <img align="center" alt="CSS" height="30" width="40" src="https://icon2.cleanpng.com/20180325/aqq/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde1738eb3.0871706315219911374733.jpg">
  
 </div>
  
