@@ -1,5 +1,13 @@
 ## Bem-vindo(a) ao perfil de Brendo Silva
 
+## Olá! Eu sou Brendo Silva
+
+Cursando **Análise e Desenvolvimento de Sistemas e Ciência de dados**.  
+Buscando consolidação na carreira de dados com foco em questões bancárias, financeiras e bancárias.
+Tenho interesse em transformar dados em informações úteis, automatizar processos e construir soluções práticas.
+
+---
+
  <div>
    <a href="https://github.com/BrendoBSilva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrendoBSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
