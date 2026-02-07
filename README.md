@@ -17,8 +17,8 @@ Tenho interesse em transformar dados em informações úteis, automatizar proces
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <img alt="JavaScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML5" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Power BI" height="30" width="40"
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg">
   <img alt="CSS3" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Python" height="30" width="40"
