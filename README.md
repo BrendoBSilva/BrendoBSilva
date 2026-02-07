@@ -3,7 +3,7 @@
 ## Olá! Eu sou Brendo Silva
 
 Cursando **Análise e Desenvolvimento de Sistemas e Ciência de dados**.  
-Buscando consolidação na carreira de dados com foco em questões bancárias, financeiras e bancárias.
+Buscando consolidação na carreira de dados com foco em questões bancárias, financeiras e econômicas.
 Tenho interesse em transformar dados em informações úteis, automatizar processos e construir soluções práticas.
 
 ---
