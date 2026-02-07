@@ -28,8 +28,9 @@ Tenho interesse em transformar dados em informações úteis, automatizar proces
   <img align="center" alt="MySQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img align="center" alt="Power BI" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg">
+       src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg">
 </div>
+
 
 
  
