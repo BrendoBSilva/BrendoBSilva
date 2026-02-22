@@ -25,6 +25,8 @@ Tenho interesse em transformar dados em informações úteis, automatizar proces
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="MySQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Streamlit" height="30" width="40" 
+     src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Streamlit_Logo_2020.svg">
 </div>
 
 <br>
