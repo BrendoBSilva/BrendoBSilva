@@ -12,7 +12,7 @@ Tenho interesse em transformar dados em informações úteis, automatizar proces
    <a href="https://github.com/BrendoBSilva">
 </div>
     
-<div style="display: inline-block;">
+<div>
   <img align="center" alt="JavaScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40"
@@ -25,13 +25,12 @@ Tenho interesse em transformar dados em informações úteis, automatizar proces
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="MySQL" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Streamlit" height="30" width="40"
-       src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Streamlit_Logo_2020.svg">
 </div>
 
 <br>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
  
 <br>
